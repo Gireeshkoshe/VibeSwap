@@ -1,0 +1,19 @@
+{
+  "name": "vibeswap",
+  "version": "1.0.0",
+  "description": "Socializing app for devs/students",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev":"nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Gireesh Koshe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
